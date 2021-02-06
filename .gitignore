@@ -1,3 +1,2 @@
-#avoid uploading node.js stuffs to github
+#avoid uploading node_modules to GitHub
 node_modules/
-package-lock.json
