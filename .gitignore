@@ -1,5 +1,6 @@
 #ignore private ID folder
 .dcp/
 
-#avoid uploading node_modules to github
+#avoid uploading npm stuffs to github
 node_modules/
+package-lock.json
