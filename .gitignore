@@ -1,0 +1,5 @@
+#ignore private ID folder
+.dcp/
+
+#avoid uploading node_modules to github
+node_modules/
